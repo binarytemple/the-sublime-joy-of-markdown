@@ -111,6 +111,7 @@ and scripting languages such as _JavaScript_. [Wikipedia]
 
 * Can be version controlled
 * Comparability (a program can show the difference of any two files)
+* Syntax is oh so simple (see the source of this presentation)
 
 ---
 
@@ -118,4 +119,14 @@ and scripting languages such as _JavaScript_. [Wikipedia]
 
 * Lacks colaborative editing like google docs 
 * Requires learning the syntax
+
+--- 
+
+# This presentation / This website
+
+![inline](this-presentation.png)
+![inline](this-website.png)
+
+* https://bryanhuntesl.github.io/the-sublime-joy-of-markdown/
+* https://bryanhuntesl.github.io/the-sublime-joy-of-markdown/
 
