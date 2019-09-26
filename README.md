@@ -4,6 +4,7 @@
 
 # What is Microsoft Word? 
 
+A software program for editing text documents, and _also_ an opaque storage format
 
 ---
 
@@ -12,6 +13,43 @@
 
 ---
 
+# What is Latex?
+
+A software for expressing the structure and content of documents and the positioning of elements within the rendered output of the document.
+
+---
+
+```
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{sdaaf}
+\author{admin }
+\date{September 2019}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+
+Mood changes when there is a topic, as well as when
+there is WH-movement.  \emph{Irrealis} is the mood when
+there is a non-subject topic or WH-phrase in Comp.
+\emph{Realis} is the mood when there is a subject topic
+or WH-phrase.
+
+\end{document}
+
+\end{document}
+
+```
+
+![right](latex-output.png)
+
+> [overleaf.com](https://www.overleaf.com)
+
+---
 
 # What is HTML? 
 
@@ -81,6 +119,3 @@ and scripting languages such as _JavaScript_. [Wikipedia]
 * Lacks colaborative editing like google docs 
 * Requires learning the syntax
 
----
-
-# [fit] ⌘+C⌘+V = 🧐
