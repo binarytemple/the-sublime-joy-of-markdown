@@ -124,9 +124,16 @@ and scripting languages such as _JavaScript_. [Wikipedia]
 
 # This presentation / This website
 
-![inline](this-presentation.png)
-![inline](this-website.png)
+---
 
-* https://bryanhuntesl.github.io/the-sublime-joy-of-markdown/
-* https://bryanhuntesl.github.io/the-sublime-joy-of-markdown/
+![](this-presentation.png)
+![](website.png)
+
+---
+
+# Links
+
+* Github repo : [https://github.com/bryanhuntesl/the-sublime-joy-of-markdown/](https://github.com/bryanhuntesl/the-sublime-joy-of-markdown/)
+* Github site : [https://bryanhuntesl.github.io/the-sublime-joy-of-markdown/](https://bryanhuntesl.github.io/the-sublime-joy-of-markdown/) 
+
 
