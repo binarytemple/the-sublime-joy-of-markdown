@@ -1,5 +1,7 @@
 # The sublime joy of Markdown
 
+Bryan Hunt
+
 ---
 
 # What is Microsoft Word? 
@@ -78,6 +80,7 @@ documents designed to be displayed in a web browser.
 It can be assisted by technologies such as _Cascading Style Sheets_ 
 and scripting languages such as _JavaScript_. [Wikipedia]
 
+---
 
 ```markdown
 # And what is markdown ?
@@ -96,6 +99,7 @@ and scripting languages such as _JavaScript_. [Wikipedia]
 * Every text editor on the planet
 * Github natively
 * Github sites (Jekyll) natively
+* Deckset presentation software
 * [https://stackedit.io](https://stackedit.io)
 * [https://dillinger.io/](https://dillinger.io/) (try it out)
 
@@ -117,7 +121,7 @@ and scripting languages such as _JavaScript_. [Wikipedia]
 
 # Disadvantages
 
-* Lacks colaborative editing like google docs 
+* Lacks colaborative editing like google docs (but people have added it, you could add it)
 * Requires learning the syntax
 
 --- 
@@ -139,7 +143,7 @@ and scripting languages such as _JavaScript_. [Wikipedia]
 
 ---
 
-# Github site 
+# Website
 
 [https://bryanhuntesl.github.io/the-sublime-joy-of-markdown/](https://bryanhuntesl.github.io/the-sublime-joy-of-markdown/) 
 
