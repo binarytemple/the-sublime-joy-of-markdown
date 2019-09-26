@@ -122,18 +122,35 @@ and scripting languages such as _JavaScript_. [Wikipedia]
 
 --- 
 
-# This presentation / This website
+# This presentation / The website
+
+* Both generated from the same sources 
+* Was written last minute.. (1 hour from start to finish)
+* Could be beautiful, but I didn't bother (developer/poor aesthetic taste)
 
 ---
 
-![](this-presentation.png)
-![](website.png)
+# Github repo 
+
+ [https://github.com/bryanhuntesl/the-sublime-joy-of-markdown/](https://github.com/bryanhuntesl/the-sublime-joy-of-markdown/)
+
+
+![fill inline 70%](this-presentation.png)
 
 ---
 
-# Links
+# Github site 
 
-* Github repo : [https://github.com/bryanhuntesl/the-sublime-joy-of-markdown/](https://github.com/bryanhuntesl/the-sublime-joy-of-markdown/)
-* Github site : [https://bryanhuntesl.github.io/the-sublime-joy-of-markdown/](https://bryanhuntesl.github.io/the-sublime-joy-of-markdown/) 
+[https://bryanhuntesl.github.io/the-sublime-joy-of-markdown/](https://bryanhuntesl.github.io/the-sublime-joy-of-markdown/) 
 
+![fill inline 70%](website.png)
 
+---
+
+# Deckset 
+
+![inline](deckset.png)
+
+---
+
+Thanks for listening
