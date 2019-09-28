@@ -70,25 +70,25 @@ It can be assisted by technologies such as
 <strong>Cascading Style Sheets</strong> and scripting languages 
 such as <strong>JavaScript</strong>. [Wikipedia]</em></p>
 ```
-
 ---
 
 # And what is markdown ?
 
-_Hypertext Markup Language_ is the standard markup language for 
-documents designed to be displayed in a web browser.
-It can be assisted by technologies such as _Cascading Style Sheets_ 
-and scripting languages such as _JavaScript_. [Wikipedia]
+_Markdown_ is a lightweight markup language with plain text formatting syntax. 
+Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML.[^1]
+
+[^1]: Wikipedia - [website](https://en.m.wikipedia.org/wiki/Markdown)
 
 ---
 
 ```markdown
+
 # And what is markdown ?
 
-_Hypertext Markup Language_ is the standard markup language for 
-documents designed to be displayed in a web browser.
-It can be assisted by technologies such as _Cascading Style Sheets_ 
-and scripting languages such as _JavaScript_. [Wikipedia]
+_Markdown_ is a lightweight markup language with plain text formatting syntax. 
+Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML.[^1]
+
+[^1]: Wikipedia - [website](https://en.m.wikipedia.org/wiki/Markdown)
 
 ```
 
